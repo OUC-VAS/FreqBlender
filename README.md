@@ -1,12 +1,12 @@
 ## FreqBlender: Enhancing DeepFake Detection by Blending Frequency Knowledge
 
-**NIPS 2024 (Poster) **
+**NeurIPS 2024 (Poster) **
 
 This repository represents the official implementation of the paper titled "FreqBlender: Enhancing DeepFake Detection by Blending Frequency Knowledge".
 
 [![Paper](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/abs/2404.13872) [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
 
-[Hanzhe Li](https://lihanzhe.github.io), [Jiaran Zhou](https://jiaranzhou.github.io), [Yuezun Li](https://yuezunli.github.io), [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), [Bin Li](http://ceie.szu.edu.cn/info/1017/1064.htm), [Junyu Dong](https://it.ouc.edu.cn/djy/main.htm)
+[Hanzhe Li](https://lihanzhe.github.io)* , [Jiaran Zhou](https://jiaranzhou.github.io)* , [Yuezun Li](https://yuezunli.github.io)<sup>#</sup>, [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/), [Bin Li](http://ceie.szu.edu.cn/info/1017/1064.htm), [Junyu Dong](https://it.ouc.edu.cn/djy/main.htm) (<sup>#</sup>Corresponding author, * Equal contribution.)
 
 ![](./overview.png)
 
