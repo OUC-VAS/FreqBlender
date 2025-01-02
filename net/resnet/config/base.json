@@ -1,0 +1,8 @@
+{
+  "comp": "c23",
+  "dataset": "Deepfakes",
+  "dataset_path": "/media/lhz/Data/FF++",
+  "image_size": 400,
+  "num_file": 1000,
+  "num_frames": 8
+}

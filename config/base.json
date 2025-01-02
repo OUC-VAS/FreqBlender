@@ -1,0 +1,28 @@
+{
+    "learning_rate": 1e-4,
+    "epoch":100,
+    "lr": 1e-4,
+    "num_frames": 8,
+    "num_train": 100,
+    "batch_size":16,
+    "dataset_path": 1,
+    "mobileface_path": "./net",
+    "dataloader": {
+        "image_size":400,
+        "dataset_path": "/media/lhz/Data/FF++",
+        "real_path": "/media/lhz/Data/FF++/original_sequences/youtube/c23/frames/",
+        "fake_path": "/media/lhz/Data/FF++/manipulated_sequences/Deepfakes/c23/frames/",
+        "dct_path": "/media/lhz/Data/FF++/dct_data"
+    },
+    "PILossBoundary": {
+        "image_size": 400,
+        "low_boundary": 50,
+        "high_boundary": 400
+    },
+    "lambda": {
+        "lambda1": 0.0833333333,
+        "lambda2": 1,
+        "lambda3": 0.001,
+        "lambda4": 0.25
+    }
+}
