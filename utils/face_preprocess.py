@@ -10,7 +10,7 @@ import cv2
 import torch
 from torch_dct import dct_2d
 
-if os.path.isfile('.utils/library/bi_online_generation.py'):
+if os.path.isfile('./utils/library/bi_online_generation.py'):
     print('exist library')
     exist_bi = True
 else:
