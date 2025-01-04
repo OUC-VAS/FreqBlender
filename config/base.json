@@ -1,11 +1,9 @@
 {
-    "learning_rate": 1e-4,
     "epoch":100,
     "lr": 1e-4,
     "num_frames": 8,
     "num_train": 1000,
     "batch_size":16,
-    "dataset_path": 1,
     "mobileface_path": "./net",
     "dataloader": {
         "image_size":400,
