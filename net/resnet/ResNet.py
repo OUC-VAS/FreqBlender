@@ -1,8 +1,8 @@
 import torch.nn as nn
 import torch.utils.model_zoo as model_zoo
 import torch
-import sys
-sys.path.append('/home/lhz/桌面/research/SBI/SBI-local/src/')
+#import sys
+#sys.path.append('/home/lhz/桌面/research/SBI/SBI-local/src/')
 
 class Detector(nn.Module):
 
