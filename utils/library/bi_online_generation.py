@@ -6,7 +6,7 @@ import os
 import random
 from PIL import Image
 from imgaug import augmenters as iaa
-from DeepFakeMask import dfl_full, facehull, components, extended
+from .DeepFakeMask import dfl_full, facehull, components, extended
 import cv2
 import tqdm
 
